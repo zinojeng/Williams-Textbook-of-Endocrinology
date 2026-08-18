@@ -16,16 +16,19 @@
 
 ## 📖 Williams-Textbook
 
-Williams Textbook of Endocrinology 章節，由原始 PDF 經 **LlamaParse** 解析後，重新整理為 endocrinology fellow 適用的精讀筆記，每章獨立成資料夾。目前收錄：
+Williams Textbook of Endocrinology 章節，由原始 PDF 經 **LlamaParse** 解析後，重新整理為 endocrinology fellow 適用的精讀筆記，每章獨立成資料夾，並依主題分區。目前收錄：
 
-| 章 | 主題 | 連結 |
-|----|------|------|
-| Ch.13 | The Adrenal Cortex（Addison's、Cushing、PA、Incidentaloma/ACC、CAH） | [Ch13](Williams-Textbook/Ch13-The-Adrenal-Cortex/) |
-| Ch.36 | Digitized Approaches to Diabetes（CGM、TIR/TBR/TAR、AGP、insulin pump、AID） | [Ch36](Williams-Textbook/Ch36-Digitized-Approaches-to-Diabetes/) |
-| Ch.42 | Endocrine Neoplasia Syndromes（MEN1–5、MEON） | [Ch42](Williams-Textbook/Ch42-Endocrine-Neoplasia-Syndromes/) |
-| Ch.43 | Neuroendocrine Tumors and Disorders（NEN/NET/NEC） | [Ch43](Williams-Textbook/Ch43-Neuroendocrine-Tumors-and-Disorders/) |
-| Ch.44 | The Immunoendocrinopathy Syndromes（APS-I/II、IPEX…） | [Ch44](Williams-Textbook/Ch44-Immunoendocrinopathy-Syndromes/) |
-| Ch.48 | Endocrine Disorders of Critical Illness（Somatotropic axis、NTIS、CIRCI、ICU Glycemic Control、Vitamin D） | [Ch48](Williams-Textbook/Ch48-Endocrine-Disorders-of-Critical-Illness/) |
+| 主題分區 | 章 | 主題 | 連結 |
+|----------|----|------|------|
+| 🧠 Hypothalamus & Pituitary | Ch.6 | Pituitary Physiology and Diagnostic Evaluation（六大軸線生理與診斷評估） | [Ch6](Williams-Textbook/Hypothalamus-and-Pituitary/Ch06-Pituitary-Physiology-and-Diagnostic-Evaluation/) |
+| 🧠 Hypothalamus & Pituitary | Ch.7 | Pituitary Adenomas and Masses（腺瘤分類、prolactinoma、acromegaly、NFPA、hypophysitis） | [Ch7](Williams-Textbook/Hypothalamus-and-Pituitary/Ch07-Pituitary-Adenomas-and-Masses/) |
+| 🫘 Adrenal | Ch.13 | The Adrenal Cortex（Addison's、Cushing、PA、Incidentaloma/ACC、CAH） | [Ch13](Williams-Textbook/Adrenal/Ch13-The-Adrenal-Cortex/) |
+| 🩸 Diabetes | Ch.36 | Digitized Approaches to Diabetes（CGM、TIR/TBR/TAR、AGP、insulin pump、AID） | [Ch36](Williams-Textbook/Diabetes/Ch36-Digitized-Approaches-to-Diabetes/) |
+| 🩸 Diabetes | Ch.37 | Monogenic Diabetes（MODY、neonatal diabetes、syndromic、孕期處置） | [Ch37](Williams-Textbook/Diabetes/Ch37-Monogenic-Diabetes/) |
+| 🧬 Multisystem & Critical Illness | Ch.42 | Endocrine Neoplasia Syndromes（MEN1–5、MEON） | [Ch42](Williams-Textbook/Multisystem-and-Critical-Illness/Ch42-Endocrine-Neoplasia-Syndromes/) |
+| 🧬 Multisystem & Critical Illness | Ch.43 | Neuroendocrine Tumors and Disorders（NEN/NET/NEC） | [Ch43](Williams-Textbook/Multisystem-and-Critical-Illness/Ch43-Neuroendocrine-Tumors-and-Disorders/) |
+| 🧬 Multisystem & Critical Illness | Ch.44 | The Immunoendocrinopathy Syndromes（APS-I/II、IPEX…） | [Ch44](Williams-Textbook/Multisystem-and-Critical-Illness/Ch44-Immunoendocrinopathy-Syndromes/) |
+| 🧬 Multisystem & Critical Illness | Ch.48 | Endocrine Disorders of Critical Illness（Somatotropic axis、NTIS、CIRCI、ICU Glycemic Control、Vitamin D） | [Ch48](Williams-Textbook/Multisystem-and-Critical-Illness/Ch48-Endocrine-Disorders-of-Critical-Illness/) |
 
 ## 🏕️ FellowCamp
 
